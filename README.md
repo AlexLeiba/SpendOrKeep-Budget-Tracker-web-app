@@ -1,5 +1,11 @@
 # SpendOrKeep url: https://spend-or-keep.vercel.app/
 
+## About project
+
+Spend or Keep is a full-stack Web App application designed to help users track expenses and manage their budgets. 
+    It provides a user-friendly interface and tools that encourage saving and staying on top of personal finances.
+    It features a dashboard that displays all the expenses and incomes, a chart that shows the user's spending habits with sorting options by date, table view for expenses and incomes, sortings, create and edit categories. 
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
